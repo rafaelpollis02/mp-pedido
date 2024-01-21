@@ -1,0 +1,11 @@
+br\com\resource\PedidoResource.class
+br\com\service\PedidoService.class
+br\com\exception\MessageError.class
+br\com\integration\ProductStockIntegration.class
+br\com\exception\GeneralException.class
+br\com\domain\Pedido.class
+br\com\domain\ProductStock.class
+META-INF\panache-archive.marker
+br\com\collection\StatusPedido.class
+br\com\exception\BusinessException.class
+br\com\repository\PedidoRepository.class
